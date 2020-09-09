@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Name: Amar-i Bangla
+Sealed: true
+Created-By: Rakesh Malik & Romit Kr. Atta
+Specification-Version: 1.0 Beta
+SplashScreen-Image: resources/images/splash.png
+Main-Class: Bangla.Bangla
+
+
+
